@@ -1,0 +1,34 @@
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\bin\Debug\kütüphane.exe.config
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.csprojResolveAssemblyReference.cache
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.Form1.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.Cache
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\bin\Debug\kütüphane.exe
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\bin\Debug\kütüphane.pdb
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kitap_guncelle.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.yetkili_ekle.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris2.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris3.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.okuyucu_ekle.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kitap_ekle.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris4.resources
+C:\Users\VahdetCemil\Desktop\kütüphane\kütüphane\obj\Debug\kütüphane.emanet_ver.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.csprojAssemblyReference.cache
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.emanet_ver.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.Form1.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kitap_ekle.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kitap_guncelle.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris2.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris3.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.kullanici_giris4.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.okuyucu_ekle.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.Properties.Resources.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.yetkili_ekle.resources
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.GenerateResource.cache
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.csproj.CoreCompileInputs.cache
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.exe
+D:\Vahdet Copyright\HKU-Sınıflar\Kütüphane Otomasyon\kütüphane\kütüphane\obj\Debug\kütüphane.pdb
